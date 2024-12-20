@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="menu.xsl"?>
+<menu>
+    <category>
+        <name>Beverages</name>
+        <item>
+            <name>Flat White</name>
+            <price>5.00 AUD</price>
+            <description>A smooth and creamy espresso-based coffee with steamed milk.</description>
+        </item>
+        <item>
+            <name>Long Black</name>
+            <price>4.50 AUD</price>
+            <description>Rich espresso with hot water, offering a full-bodied taste.</description>
+        </item>
+        <item>
+            <name>Piccolo Latte</name>
+            <price>4.80 AUD</price>
+            <description>Mini version of the latte with a balanced espresso-to-milk ratio.</description>
+        </item>
+    </category>
+
+    <category>
+        <name>Food</name>
+        <item>
+            <name>Truffle Mushroom Toast</name>
+            <price>12.00 AUD</price>
+            <description>Sautéed mushrooms with truffle oil on freshly toasted sourdough.</description>
+        </item>
+        <item>
+            <name>Smoked Salmon Avocado Toast</name>
+            <price>14.50 AUD</price>
+            <description>Fresh avocado topped with smoked salmon and a squeeze of lemon.</description>
+        </item>
+        <item>
+            <name>Classic Croissant</name>
+            <price>6.00 AUD</price>
+            <description>Buttery, flaky croissant baked to perfection.</description>
+        </item>
+    </category>
+
+    <category>
+        <name>Pastries</name>
+        <item>
+            <name>Chocolate Eclair</name>
+            <price>6.50 AUD</price>
+            <description>A delicate choux pastry filled with rich chocolate cream.</description>
+        </item>
+        <item>
+            <name>Raspberry Tart</name>
+            <price>7.00 AUD</price>
+            <description>A sweet tart with fresh raspberries and a buttery crust.</description>
+        </item>
+    </category>
+</menu>
+
